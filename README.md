@@ -25,7 +25,7 @@ A hangman-style word guessing game built with React, featuring a custom on-scree
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/word-guessing-game.git
+git https://github.com/sridharsrk/wordGuessGame.git
 cd word-guessing-game
 
 # Install dependencies
